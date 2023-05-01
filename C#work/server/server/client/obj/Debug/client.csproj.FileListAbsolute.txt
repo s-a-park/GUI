@@ -1,0 +1,10 @@
+C:\Users\SIK-170C-001\source\repos\server\client\bin\Debug\client.exe.config
+C:\Users\SIK-170C-001\source\repos\server\client\bin\Debug\client.exe
+C:\Users\SIK-170C-001\source\repos\server\client\bin\Debug\client.pdb
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.Form1.resources
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.exe
+C:\Users\SIK-170C-001\source\repos\server\client\obj\Debug\client.pdb

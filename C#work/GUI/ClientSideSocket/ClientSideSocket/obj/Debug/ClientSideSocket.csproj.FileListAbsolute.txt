@@ -1,0 +1,12 @@
+c:\users\kyowo\source\repos\ClientSideSocket\ClientSideSocket\bin\Debug\ClientSideSocket.exe.config
+c:\users\kyowo\source\repos\ClientSideSocket\ClientSideSocket\bin\Debug\ClientSideSocket.exe
+c:\users\kyowo\source\repos\ClientSideSocket\ClientSideSocket\bin\Debug\ClientSideSocket.pdb
+c:\users\kyowo\source\repos\ClientSideSocket\ClientSideSocket\obj\Debug\ClientSideSocket.csproj.CoreCompileInputs.cache
+c:\users\kyowo\source\repos\ClientSideSocket\ClientSideSocket\obj\Debug\ClientSideSocket.exe
+c:\users\kyowo\source\repos\ClientSideSocket\ClientSideSocket\obj\Debug\ClientSideSocket.pdb
+C:\Users\user\Desktop\GUI\ClientSideSocket\ClientSideSocket\bin\Debug\ClientSideSocket.exe.config
+C:\Users\user\Desktop\GUI\ClientSideSocket\ClientSideSocket\bin\Debug\ClientSideSocket.exe
+C:\Users\user\Desktop\GUI\ClientSideSocket\ClientSideSocket\bin\Debug\ClientSideSocket.pdb
+C:\Users\user\Desktop\GUI\ClientSideSocket\ClientSideSocket\obj\Debug\ClientSideSocket.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GUI\ClientSideSocket\ClientSideSocket\obj\Debug\ClientSideSocket.exe
+C:\Users\user\Desktop\GUI\ClientSideSocket\ClientSideSocket\obj\Debug\ClientSideSocket.pdb

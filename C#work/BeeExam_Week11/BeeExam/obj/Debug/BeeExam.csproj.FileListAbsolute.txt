@@ -1,0 +1,40 @@
+C:\Users\user\source\repos\BeeExam\BeeExam\bin\Debug\BeeExam.exe.config
+C:\Users\user\source\repos\BeeExam\BeeExam\bin\Debug\BeeExam.exe
+C:\Users\user\source\repos\BeeExam\BeeExam\bin\Debug\BeeExam.pdb
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.Form1.resources
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.Properties.Resources.resources
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.exe
+C:\Users\user\source\repos\BeeExam\BeeExam\obj\Debug\BeeExam.pdb
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\bin\Debug\BeeExam.exe.config
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\bin\Debug\BeeExam.exe
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\bin\Debug\BeeExam.pdb
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.Form1.resources
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.Properties.Resources.resources
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.csproj.GenerateResource.Cache
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.csproj.CoreCompileInputs.cache
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.exe
+D:\Onedrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.pdb
+D:\OneDrive\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.csprojAssemblyReference.cache
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\bin\Debug\BeeExam.exe.config
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\bin\Debug\BeeExam.exe
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\bin\Debug\BeeExam.pdb
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.csprojResolveAssemblyReference.cache
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.Form1.resources
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.Properties.Resources.resources
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.csproj.GenerateResource.Cache
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.csproj.CoreCompileInputs.cache
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.exe
+D:\2_학교 수업\2018년\1학기\GUI프로그래밍\GUI프로그래밍\BeeExam\BeeExam\obj\Debug\BeeExam.pdb
+D:\BeeExam_Week11\BeeExam\bin\Debug\BeeExam.exe.config
+D:\BeeExam_Week11\BeeExam\bin\Debug\BeeExam.exe
+D:\BeeExam_Week11\BeeExam\bin\Debug\BeeExam.pdb
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.csprojAssemblyReference.cache
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.Form1.resources
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.Properties.Resources.resources
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.csproj.GenerateResource.cache
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.csproj.CoreCompileInputs.cache
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.exe
+D:\BeeExam_Week11\BeeExam\obj\Debug\BeeExam.pdb
